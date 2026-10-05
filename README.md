@@ -13,7 +13,7 @@
 
 ## 🛠 Инструкция по запуску
 
-1. **Клонировать репозиторий:**
+**Клонировать репозиторий:**
    ```bash
-   git clone [https://github.com/cyheuky/coffee_ai_counter.git](https://github.com/cyheuky/coffee_ai_counter.git)
+   git clone https://github.com/cyheuky/coffee_ai_counter.git
    cd coffee_ai_counter
